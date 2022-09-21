@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello, my name is Egide and l am an `aspiring junior developer` at BeCode.
+> Hello, my name is Egide and l am an `aspiring junior developer` at BeCode.
 
 ## Three surprising skills l have
 
@@ -13,12 +13,12 @@ Hello, my name is Egide and l am an `aspiring junior developer` at BeCode.
 ## Three things that l like most in the universe.
 
 1. A good entrecôte, well done
-2. A nice cocktail after a long week. Preferably a Moscow Mule.
+2. A nice cocktail after a long week. Preferably a **Moscow Mule**.
 3. Traveling and discovering a new place
 
 ## Objectives l want to achieve in my time here at BeCode
 
-- Become job ready in 7 months
+- Become job ready in **_7 months_**
 - Create and deploy a webapp from A to Z
 - Meet new developer friends
 
@@ -37,4 +37,7 @@ Hello, my name is Egide and l am an `aspiring junior developer` at BeCode.
 1. Having a common goal and splitting the work to accomplish it
 2. Getting input from the other team members who might see things from a different angle
 
+### A Gif speaks more than a thousand videos
+
 Here is my favorite gif
+[What exactly are you talking about](https://media.giphy.com/media/AfXPYfexaPjPsEdsUz/giphy.gif).
