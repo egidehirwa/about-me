@@ -39,6 +39,9 @@
 
 ### A Gif speaks more than a thousand videos
 
+Here is my favorite gif
+![This is an image](https://i.ibb.co/FKkDQFM/confused-girl.gif)
+
 Here is my favorite gif 😂 Always makes me laugh
 
 ![What a gif](https://i.ibb.co/FKkDQFM/confused-girl.gif)
