@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> Hello, my name is Egide and l am an `aspiring junior developer` at BeCode.
+> Hello, my name is Egide and l am an `aspiring junior developer` at BeCode. I was previously a bartender so if you are nice to me, l might make you a cocktail one of these days 😌.
 
 ## Three surprising skills l have
 
@@ -43,6 +43,6 @@ Here is my favorite gif 😂 Always makes me laugh
 
 ![What a gif](https://i.ibb.co/FKkDQFM/confused-girl.gif)
 
-[What exactly are you talking about](https://media.giphy.com/media/AfXPYfexaPjPsEdsUz/giphy.gif){:target="\_blank"}
+[What exactly are you talking about](https://media.giphy.com/media/AfXPYfexaPjPsEdsUz/giphy.gif)
 
 ![This is the kind of place l would like to travel to](https://i.ibb.co/v3cqCQ5/pexels-michael-block-3225528.jpg)
