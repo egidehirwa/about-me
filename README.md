@@ -1,4 +1,4 @@
-a# BeCode Learner
+# BeCode Learner
 
 ## Introduction
 
@@ -16,7 +16,8 @@ a# BeCode Learner
 2. A nice cocktail after a long week. Preferably a **Moscow Mule**.
 3. Traveling and discovering new places
 
-![Nothing beats a Moscow mule after a long day of work](./assets/moscow-mule.gif)
+`Nothing beats a Moscow mule after a long day of work`
+![A moscow mule being served](./assets/moscow-mule.gif)
 
 ## Objectives l want to achieve in my time here at BeCode
 
