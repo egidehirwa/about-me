@@ -41,24 +41,33 @@
 
 ## Fun facts
 
-<details>
+<details open>
     <summary>
         What is my favorite cocktail
     </summary>
         A Moscow mule
 </details>
+<details>
+    <summary>
+        Two of my favorite movies
+    </summary>
+        - Lord of the rings
+        - The man from earth
+</details>
+<details>
+    <summary>
+        3 animes l recommend to anyone
+    </summary>
+        1. Kiseijuu
+        2. Hunter x Hunter
+        3. Demon slayer
+</details>
 
 ### A Gif speaks more than a thousand videos
 
-Here is my favorite gif
-![This is an image](https://i.ibb.co/FKkDQFM/confused-girl.gif)
-
 Here is my favorite gif 😂 Always makes me laugh
-
 ![What a gif](https://i.ibb.co/FKkDQFM/confused-girl.gif)
 
 [What exactly are you talking about](https://media.giphy.com/media/AfXPYfexaPjPsEdsUz/giphy.gif)
 
 ![This is the kind of place l would like to travel to](https://i.ibb.co/v3cqCQ5/pexels-michael-block-3225528.jpg)
-
-# Vérification pour voir si le clonage a réussi
