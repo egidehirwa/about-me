@@ -16,6 +16,8 @@ a# BeCode Learner
 2. A nice cocktail after a long week. Preferably a **Moscow Mule**.
 3. Traveling and discovering new places
 
+![Nothing beats a Moscow mule after a long day of work](./assets/moscow-mule.gif)
+
 ## Objectives l want to achieve in my time here at BeCode
 
 - Become job ready in **_7 months_**
@@ -66,10 +68,8 @@ a# BeCode Learner
 ### A Gif speaks more than a thousand videos
 
 Here is my favorite gif 😂 Always makes me laugh
-![What a gif](https://i.ibb.co/FKkDQFM/confused-girl.gif)
-![What a gif](./assets/confused-girl.gif)
 
-[What exactly are you talking about](https://media.giphy.com/media/AfXPYfexaPjPsEdsUz/giphy.gif)
+![What a gif](./assets/confused-girl.gif)
 
 This is the king of place l would like to travel to.
 ![a picture of a beach paradise](https://i.ibb.co/v3cqCQ5/pexels-michael-block-3225528.jpg)
