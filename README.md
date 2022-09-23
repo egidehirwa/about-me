@@ -1,4 +1,4 @@
-# BeCode Learner
+a# BeCode Learner
 
 ## Introduction
 
@@ -67,6 +67,7 @@
 
 Here is my favorite gif 😂 Always makes me laugh
 ![What a gif](https://i.ibb.co/FKkDQFM/confused-girl.gif)
+![What a gif](./assets/confused-girl.gif)
 
 [What exactly are you talking about](https://media.giphy.com/media/AfXPYfexaPjPsEdsUz/giphy.gif)
 
