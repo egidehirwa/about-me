@@ -8,34 +8,45 @@
 
 1. Solving the Rubik's cube in 15 seconds
 2. I like to do Parkour from time to time
-3. I'm an average ping pong player
+3. I dance in a rwandese group that organises a big show annually. This year it will take place at Louvain-la-neuve, so come see me dance 😉
 
 ## Three things that l like most in the universe.
 
-1. A good entrecôte, well done
+1. My family
 2. A nice cocktail after a long week. Preferably a **Moscow Mule**.
-3. Traveling and discovering a new place
+3. Traveling and discovering new places
 
 ## Objectives l want to achieve in my time here at BeCode
 
 - Become job ready in **_7 months_**
 - Create and deploy a webapp from A to Z
-- Meet new developer friends
+- Meet new developer friends 😏
 
 ## Some fears l have
 
-- Not being able to understand coding concepts
-- Algorithms seem challenging from afar
+- Looking back at things l have done and realizing l did not give it my all.
+- Living an unexamined life (just drifting along)
+- Being served cereals without any milk 🙀
 
 ## The things l'm most looking forward to
 
 - Getting paid working as a developer
 - Being part of a big project
+- Being proficient in a valuable skill
 
 ## While working as a team, the things l value the most are ...
 
 1. Having a common goal and splitting the work to accomplish it
 2. Getting input from the other team members who might see things from a different angle
+
+## Fun facts
+
+<details>
+    <summary>
+        What is my favorite cocktail
+    </summary>
+        A Moscow mule
+</details>
 
 ### A Gif speaks more than a thousand videos
 
