@@ -42,20 +42,20 @@
 ## Fun facts
 
 <details open>
-    <summary font-weight: bold>
+    <summary style="font-weight: bold">
         What is my favorite cocktail
     </summary>
         A Moscow mule
 </details>
 <details>
-    <summary font-weight: bold>
+    <summary style="font-weight: bold">
         Two of my favorite movies
     </summary>
         - Lord of the rings <br>
         - The man from earth
 </details>
 <details>
-    <summary font-weight: bold>
+    <summary style="font-weight: bold">
         3 animes l recommend to anyone
     </summary>
         1. Kiseijuu <br>
