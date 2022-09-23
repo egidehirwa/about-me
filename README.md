@@ -51,15 +51,15 @@
     <summary>
         Two of my favorite movies
     </summary>
-        - Lord of the rings
+        - Lord of the rings <br>
         - The man from earth
 </details>
 <details>
     <summary>
         3 animes l recommend to anyone
     </summary>
-        1. Kiseijuu
-        2. Hunter x Hunter
+        1. Kiseijuu <br>
+        2. Hunter x Hunter <br>
         3. Demon slayer
 </details>
 
