@@ -72,5 +72,5 @@ Here is my favorite gif 😂 Always makes me laugh
 
 ![What a gif](./assets/confused-girl.gif)
 
-This is the king of place l would like to travel to.
+This is the kind of place l would like to travel to.
 ![a picture of a beach paradise](https://i.ibb.co/v3cqCQ5/pexels-michael-block-3225528.jpg)
